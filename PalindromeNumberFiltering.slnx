@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="PalindromeNumberFiltering.Tests/PalindromeNumberFiltering.Tests.csproj" />
+  <Project Path="PalindromeNumberFiltering/PalindromeNumberFiltering.csproj" />
+</Solution>
